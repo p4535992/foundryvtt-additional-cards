@@ -1,2 +1,5 @@
-*.zip
-migrate/node_modules
+node_modules
+.idea
+/package-lock.json
+/dist
+/package
