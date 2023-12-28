@@ -49,11 +49,7 @@ If you have your own token frames that you would like to share with the Foundry 
 ## Other modules
 
 [Additional Token Frames](https://github.com/p4535992/foundryvtt-additional-token-frames) is a module that add token frames
-
-## Issues
-
-Any issues, bugs, or feature requests are always welcome to be reported directly to the [Issue Tracker](https://github.com/p4535992/foundryvtt-additional-cards/issues ), or using the [Bug Reporter Module](https://foundryvtt.com/packages/bug-reporter/).
-
+[Additional Icons](https://github.com/p4535992/foundryvtt-additional-icons) is a module that add icons
 
 # Build
 
@@ -62,56 +58,31 @@ Any issues, bugs, or feature requests are always welcome to be reported directly
 ```bash
 npm install
 ```
+
+### dev
+
+`dev` will let you develop you own code with hot reloading on the browser
+
+```bash
+npm run dev
+```
+
 ## npm build scripts
 
 ### build
 
-will build the code and copy all necessary assets into the dist folder and make a symlink to install the result into your foundry data; create a
-`foundryconfig.json` file with your Foundry Data path.
-
-```json
-{
-  "dataPath": "~/.local/share/FoundryVTT/"
-}
-```
-
 `build` will build and set up a symlink between `dist` and your `dataPath`.
 
 ```bash
-npm run-script build
+npm run build
 ```
 
-### NOTE:
+### build-watch
 
-You don't need to build the `foundryconfig.json` file you can just copy the content of the `dist` folder on the module folder under `modules` of Foundry
-
-### build:watch
-
-`build:watch` will build and watch for changes, rebuilding automatically.
+`build-watch` will build and watch for changes, rebuilding automatically.
 
 ```bash
-npm run-script build:watch
-```
-
-### clean
-
-`clean` will remove all contents in the dist folder (but keeps the link from build:install).
-
-```bash
-npm run-script clean
-```
-### lint and lintfix
-
-`lint` launch the eslint process based on the configuration [here](./.eslintrc)
-
-```bash
-npm run-script lint
-```
-
-`lintfix` launch the eslint process with the fix argument
-
-```bash
-npm run-script lintfix
+npm run build-watch
 ```
 
 ### prettier-format
@@ -122,12 +93,18 @@ npm run-script lintfix
 npm run-script prettier-format
 ```
 
-### package
+### lint and lint:fix
 
-`package` generates a zip file containing the contents of the dist folder generated previously with the `build` command. Useful for those who want to manually load the module or want to create their own release
+`lint` launch the eslint process based on the configuration [here](./.eslintrc.json)
 
 ```bash
-npm run-script package
+npm run-script lint
+```
+
+`lint:fix` launch the eslint process with the fix argument
+
+```bash
+npm run-script lint:fix
 ```
 
 ## [Changelog](./CHANGELOG.md)
