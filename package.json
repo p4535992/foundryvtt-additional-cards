@@ -1,8 +1,8 @@
 {
-    "name": "combat-hp-display",
-    "title": "Combat HP Display",
-    "description": "A module for automatically changing how display bars such as HP are shown on tokens when entering and leaving combat.",
-    "version": "1.2.1",
+	"name": "additional-cards",
+	"title": "Additional FoundryVTT Cards",
+    "description": "Additional card decks for FoundryVTT.",
+    "version": "1.5.1",
 	"main": "module.js",
 	"license": "SEE LICENSE IN LICENSE",
 	"private": true,

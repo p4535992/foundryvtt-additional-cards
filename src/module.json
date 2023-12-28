@@ -1,83 +1,103 @@
 {
-	"id": "additional-cards",
-	"title": "Additional FoundryVTT Cards",
-    "description": "Additional card decks for FoundryVTT.",
-    "version": "1.5.0",
-	"authors": [
-        {
-            "name": "Jay Colson",
-            "email": "jay+foundry@karma.net",
-            "url": "https://github.com/jcolson",
-            "discord": "blackntan#0069"
-        },
-		{
-			"name": "p4535992",
-			"url": "https://github.com/p4535992",
-			"discord": "",
-			"twitter": "",
-			"patreon": "",
-			"github": "p4535992",
-			"ko-fi": "",
-			"reddit": "",
-			"email": ""
-		}
-	],
-	"type": "module",
-	"socket": true,
-	"includes": [
-		"./assets/**",
-		"./lang/**",
-		"./languages/**",
-		"./scripts/**",
-		"./styles/**",
-		"./templates/**",
-		"./module.json",
-		"./README.md",
-		"./icons/**",
-		"./packs/**"
-	],
-	"media": [
-		{
-			"type": "icon",
-			"location": ""
-		},
-		{
-			"type": "cover",
-			"location": ""
-		},
-		{
-			"type": "screenshot",
-			"location": ""
-		}
-	],
-	"languages": [],
-	"packs": [],
-	"systems": [],
-	"scripts": [],
-	"esmodules": [],
-	"styles": [],
-	"compatibility": {
-		"minimum": 10,
-		"verified": 10,
-		"maximum": 10
-	},
-	"manifestPlusVersion": "1.2.1",
-	"url": "https://github.com/p4535992/foundryvtt-additional-cards",
-	"manifest": "https://github.com/p4535992/foundryvtt-additional-cards/releases/latest/download/module.json",
-	"download": "https://github.com/p4535992/foundryvtt-additional-cards/releases/latest/download/module.zip",
-	"readme": "https://github.com/p4535992/foundryvtt-additional-cards/blob/master/README.md",
-	"changelog": "https://github.com/p4535992/foundryvtt-additional-cards/blob/master/CHANGELOG.md",
-	"bugs": "https://github.com/p4535992/foundryvtt-additional-cards/issues",
-	"allowBugReporter": true,
-	"relationships": {
-		"systems": [],
-		"requires": [],
-		"conflicts": [
-			{
-				"id": "FoundryVTTCards",
-				"type": "module",
-				"reason": "Redundancy of feature please uninstall the module 'FoundryVTT Cards'"
-			}
-		]
-	}
+  "id": "additional-cards",
+  "title": "Additional FoundryVTT Cards",
+  "description": "Additional card decks for FoundryVTT.",
+  "version": "1.5.1",
+  "authors": [
+    {
+      "name": "Jay Colson",
+      "email": "jay+foundry@karma.net",
+      "url": "https://github.com/jcolson",
+      "discord": "blackntan#0069"
+    },
+    {
+      "name": "p4535992",
+      "url": "https://github.com/p4535992",
+      "discord": "",
+      "twitter": "",
+      "patreon": "",
+      "github": "p4535992",
+      "ko-fi": "",
+      "reddit": "",
+      "email": ""
+    }
+  ],
+  "type": "module",
+  "socket": true,
+  "includes": [
+    "./assets/**",
+    "./lang/**",
+    "./languages/**",
+    "./scripts/**",
+    "./styles/**",
+    "./templates/**",
+    "./module.json",
+    "./README.md",
+    "./icons/**",
+    "./packs/**"
+  ],
+  "media": [
+    {
+      "type": "icon",
+      "location": ""
+    },
+    {
+      "type": "cover",
+      "location": ""
+    },
+    {
+      "type": "screenshot",
+      "location": ""
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "additional-cards",
+      "label": "Addtional Cards",
+      "path": "packs/additional-cards",
+      "type": "Cards",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "additional-cards",
+      "flags": {}
+    }
+  ],
+  "systems": [],
+  "scripts": [],
+  "esmodules": ["module.js"],
+  "styles": [],
+  "compatibility": {
+    "minimum": 11,
+    "verified": 11,
+    "maximum": 11
+  },
+  "manifestPlusVersion": "1.2.1",
+  "url": "https://github.com/p4535992/foundryvtt-additional-cards",
+  "manifest": "https://github.com/p4535992/foundryvtt-additional-cards/releases/download/1.5.1/module.json",
+  "download": "https://github.com/p4535992/foundryvtt-additional-cards/releases/download/1.5.1/module.zip",
+  "readme": "https://github.com/p4535992/foundryvtt-additional-cards/blob/master/README.md",
+  "changelog": "https://github.com/p4535992/foundryvtt-additional-cards/blob/master/CHANGELOG.md",
+  "bugs": "https://github.com/p4535992/foundryvtt-additional-cards/issues",
+  "allowBugReporter": true,
+  "relationships": {
+    "systems": [],
+    "requires": [],
+    "conflicts": [
+      {
+        "id": "FoundryVTTCards",
+        "type": "module",
+        "reason": "Redundancy of feature please uninstall the module 'FoundryVTT Cards'"
+      }
+    ]
+  }
 }
