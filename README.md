@@ -67,8 +67,6 @@ npm install
 npm run dev
 ```
 
-## npm build scripts
-
 ### build
 
 `build` will build and set up a symlink between `dist` and your `dataPath`.
@@ -77,12 +75,12 @@ npm run dev
 npm run build
 ```
 
-### build-watch
+### build:watch
 
-`build-watch` will build and watch for changes, rebuilding automatically.
+`build:watch` will build and watch for changes, rebuilding automatically.
 
 ```bash
-npm run build-watch
+npm run build:watch
 ```
 
 ### prettier-format
@@ -93,7 +91,7 @@ npm run build-watch
 npm run-script prettier-format
 ```
 
-### lint and lint:fix
+### lint
 
 `lint` launch the eslint process based on the configuration [here](./.eslintrc.json)
 
@@ -101,10 +99,36 @@ npm run-script prettier-format
 npm run-script lint
 ```
 
+### lint:fix
+
 `lint:fix` launch the eslint process with the fix argument
 
 ```bash
 npm run-script lint:fix
+```
+
+### build:json
+
+`build:json` unpack LevelDB pack on `src/packs` to the json db sources in `src/packs/_source`very useful for backup your items and manually fix some hard issue with some text editor
+
+```bash
+npm run-script build:json
+```
+
+### build:clean
+
+`build:clean` clean packs json sources in `src/packs/_source`. NOTE: usually this command is launched after the command `build:json` and after make some modifications on the json source files with some text editor, but before the `build:db`
+
+```bash
+npm run-script build:clean
+```
+
+### build:db
+
+`build:db` packs the json db sources in `src/packs/_source` to LevelDB pack on `src/packs` with the new jsons. NOTE: usually this command is launched after the command `build:json` and after make some modifications on the json source files with some text editor
+
+```bash
+npm run-script build:db
 ```
 
 ## [Changelog](./CHANGELOG.md)
