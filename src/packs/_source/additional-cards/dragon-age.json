@@ -1,0 +1,2428 @@
+{
+  "_id": "4rmCrVRasx289paS",
+  "name": "Dragon-Age",
+  "type": "deck",
+  "description": "Dragon Age Deck",
+  "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+  "data": {},
+  "cards": [
+    {
+      "_id": "IHL3bLbqnwvCSU26",
+      "name": "alchemist",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/alchemist.jpeg",
+          "name": "alchemist",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.IHL3bLbqnwvCSU26",
+      "cards": []
+    },
+    {
+      "_id": "HZqZSw7K2NuBd0zu",
+      "name": "arcanehorror",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/arcanehorror.jpeg",
+          "name": "arcanehorror",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.HZqZSw7K2NuBd0zu",
+      "cards": []
+    },
+    {
+      "_id": "k4ODTljIlw2d7er0",
+      "name": "arcanewarrior",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/arcanewarrior.jpeg",
+          "name": "arcanewarrior",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.k4ODTljIlw2d7er0",
+      "cards": []
+    },
+    {
+      "_id": "DPEiSitD4fVX6Ayp",
+      "name": "archer",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/archer.jpeg",
+          "name": "archer",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.DPEiSitD4fVX6Ayp",
+      "cards": []
+    },
+    {
+      "_id": "wIVQ2nx2MzR03TQo",
+      "name": "archer_mp",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/archer_mp.jpeg",
+          "name": "archer_mp",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.wIVQ2nx2MzR03TQo",
+      "cards": []
+    },
+    {
+      "_id": "dE37beVgVaVfeXc7",
+      "name": "assassin",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/assassin.jpeg",
+          "name": "assassin",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.dE37beVgVaVfeXc7",
+      "cards": []
+    },
+    {
+      "_id": "mdv3zPfWJi3JAy3S",
+      "name": "augustram",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/augustram.jpeg",
+          "name": "augustram",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.mdv3zPfWJi3JAy3S",
+      "cards": []
+    },
+    {
+      "_id": "WO58V1Ho8p7h4mbW",
+      "name": "bear",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/bear.jpeg",
+          "name": "bear",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.WO58V1Ho8p7h4mbW",
+      "cards": []
+    },
+    {
+      "_id": "TkPSHCVA6CTg6jHe",
+      "name": "behemoth",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/behemoth.jpeg",
+          "name": "behemoth",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.TkPSHCVA6CTg6jHe",
+      "cards": []
+    },
+    {
+      "_id": "cdlhUf1I4Ve6NaV5",
+      "name": "blackwall",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/blackwall.jpeg",
+          "name": "blackwall",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.cdlhUf1I4Ve6NaV5",
+      "cards": []
+    },
+    {
+      "_id": "VJVUJjjEsHSEUM8M",
+      "name": "blackwolf",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/blackwolf.jpeg",
+          "name": "blackwolf",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.VJVUJjjEsHSEUM8M",
+      "cards": []
+    },
+    {
+      "_id": "d1i4xSCy0BVnH63r",
+      "name": "bronto",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/bronto.jpeg",
+          "name": "bronto",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.d1i4xSCy0BVnH63r",
+      "cards": []
+    },
+    {
+      "_id": "jBDAN5EoxFY6DeeG",
+      "name": "bruiser",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/bruiser.jpeg",
+          "name": "bruiser",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.jBDAN5EoxFY6DeeG",
+      "cards": []
+    },
+    {
+      "_id": "nB3atoz0dfQbCOCu",
+      "name": "cassandra",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/cassandra.jpeg",
+          "name": "cassandra",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.nB3atoz0dfQbCOCu",
+      "cards": []
+    },
+    {
+      "_id": "oejVCYdSM2Bc2yzT",
+      "name": "cole",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/cole.jpeg",
+          "name": "cole",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.oejVCYdSM2Bc2yzT",
+      "cards": []
+    },
+    {
+      "_id": "VKzHXlAOqc7DHRfv",
+      "name": "corpse",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/corpse.jpeg",
+          "name": "corpse",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.VKzHXlAOqc7DHRfv",
+      "cards": []
+    },
+    {
+      "_id": "rHantsejb0YZLPQw",
+      "name": "cullen-1",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/cullen-1.jpg",
+          "name": "cullen-1",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.rHantsejb0YZLPQw",
+      "cards": []
+    },
+    {
+      "_id": "8HpM49tB5E8B0pjo",
+      "name": "cullen-2",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/cullen-2.jpg",
+          "name": "cullen-2",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.8HpM49tB5E8B0pjo",
+      "cards": []
+    },
+    {
+      "_id": "qNadctOOC0hxV0jj",
+      "name": "deepstalker",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/deepstalker.jpeg",
+          "name": "deepstalker",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.qNadctOOC0hxV0jj",
+      "cards": []
+    },
+    {
+      "_id": "iY99nZHovMikUfgd",
+      "name": "despairdemon",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/despairdemon.jpeg",
+          "name": "despairdemon",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.iY99nZHovMikUfgd",
+      "cards": []
+    },
+    {
+      "_id": "6Tm0I3LzOmfzxK0o",
+      "name": "dorian",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/dorian.jpeg",
+          "name": "dorian",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.6Tm0I3LzOmfzxK0o",
+      "cards": []
+    },
+    {
+      "_id": "g55Sh1OWZjpfXqaa",
+      "name": "dragonlings",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/dragonlings.jpeg",
+          "name": "dragonlings",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.g55Sh1OWZjpfXqaa",
+      "cards": []
+    },
+    {
+      "_id": "HaIgrwu5EgGodJPg",
+      "name": "druffalo",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/druffalo.jpeg",
+          "name": "druffalo",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.HaIgrwu5EgGodJPg",
+      "cards": []
+    },
+    {
+      "_id": "E5CBacYu7JEHWsh0",
+      "name": "elementalist",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/elementalist.jpeg",
+          "name": "elementalist",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.E5CBacYu7JEHWsh0",
+      "cards": []
+    },
+    {
+      "_id": "EWNFyBtvg3uqanYD",
+      "name": "feardemon",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/feardemon.jpeg",
+          "name": "feardemon",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.EWNFyBtvg3uqanYD",
+      "cards": []
+    },
+    {
+      "_id": "HKmwCtp3CCR05t8h",
+      "name": "fennec",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/fennec.jpeg",
+          "name": "fennec",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.HKmwCtp3CCR05t8h",
+      "cards": []
+    },
+    {
+      "_id": "NMajaPCpwsS4Efo9",
+      "name": "footsoldier",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/footsoldier.jpeg",
+          "name": "footsoldier",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.NMajaPCpwsS4Efo9",
+      "cards": []
+    },
+    {
+      "_id": "5NIBfpGFaT8Ckd4N",
+      "name": "ghoul",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/ghoul.jpeg",
+          "name": "ghoul",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.5NIBfpGFaT8Ckd4N",
+      "cards": []
+    },
+    {
+      "_id": "bWqCvxkMio7vRZJq",
+      "name": "giant",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/giant.jpeg",
+          "name": "giant",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.bWqCvxkMio7vRZJq",
+      "cards": []
+    },
+    {
+      "_id": "e263aUuh4TGAKUE8",
+      "name": "giantbear",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/giantbear.jpeg",
+          "name": "giantbear",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.e263aUuh4TGAKUE8",
+      "cards": []
+    },
+    {
+      "_id": "pPGXC4XivZf6j2yc",
+      "name": "giantspider",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/giantspider.jpeg",
+          "name": "giantspider",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.pPGXC4XivZf6j2yc",
+      "cards": []
+    },
+    {
+      "_id": "Wa0g8TTg8W2BOkfL",
+      "name": "guardsmen",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/guardsmen.jpeg",
+          "name": "guardsmen",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.Wa0g8TTg8W2BOkfL",
+      "cards": []
+    },
+    {
+      "_id": "QQNdHh97mEkc2UPX",
+      "name": "gurgut",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/gurgut.jpeg",
+          "name": "gurgut",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.QQNdHh97mEkc2UPX",
+      "cards": []
+    },
+    {
+      "_id": "Z6BbsXbeW8Wkufrc",
+      "name": "gurn",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/gurn.jpeg",
+          "name": "gurn",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.Z6BbsXbeW8Wkufrc",
+      "cards": []
+    },
+    {
+      "_id": "UMm1cQkt0TWcLz3y",
+      "name": "halla",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/halla.jpeg",
+          "name": "halla",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.UMm1cQkt0TWcLz3y",
+      "cards": []
+    },
+    {
+      "_id": "iiAg7rHvO4OEJIHm",
+      "name": "highdragon",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/highdragon.jpeg",
+          "name": "highdragon",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.iiAg7rHvO4OEJIHm",
+      "cards": []
+    },
+    {
+      "_id": "auA8a4c4dS8pnga0",
+      "name": "horror",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/horror.jpeg",
+          "name": "horror",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.auA8a4c4dS8pnga0",
+      "cards": []
+    },
+    {
+      "_id": "f1srsUUetcBXz2Kf",
+      "name": "hunter",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/hunter.jpeg",
+          "name": "hunter",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.f1srsUUetcBXz2Kf",
+      "cards": []
+    },
+    {
+      "_id": "uzcm0y3Yh4XLLfnC",
+      "name": "hurlock",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/hurlock.jpeg",
+          "name": "hurlock",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.uzcm0y3Yh4XLLfnC",
+      "cards": []
+    },
+    {
+      "_id": "YOWd7gmGdJvViXPt",
+      "name": "hurlockalpha",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/hurlockalpha.jpeg",
+          "name": "hurlockalpha",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.YOWd7gmGdJvViXPt",
+      "cards": []
+    },
+    {
+      "_id": "NFcHZrn3raXvnydg",
+      "name": "hyena",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/hyena.jpeg",
+          "name": "hyena",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.NFcHZrn3raXvnydg",
+      "cards": []
+    },
+    {
+      "_id": "0A8SnfCWR2HVQBnl",
+      "name": "ironbull",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/ironbull.jpeg",
+          "name": "ironbull",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.0A8SnfCWR2HVQBnl",
+      "cards": []
+    },
+    {
+      "_id": "ZEEQvzEv8CjKCqQF",
+      "name": "josephine-1",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/josephine-1.jpg",
+          "name": "josephine-1",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.ZEEQvzEv8CjKCqQF",
+      "cards": []
+    },
+    {
+      "_id": "5Qzc1q0Z35d77D5Y",
+      "name": "josephine-2",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/josephine-2.jpg",
+          "name": "josephine-2",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.5Qzc1q0Z35d77D5Y",
+      "cards": []
+    },
+    {
+      "_id": "nZ85uS6e6yZD9MfU",
+      "name": "katari",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/katari.jpeg",
+          "name": "katari",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.nZ85uS6e6yZD9MfU",
+      "cards": []
+    },
+    {
+      "_id": "jd8SrGrr2FraLY1W",
+      "name": "keeper",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/keeper.jpeg",
+          "name": "keeper",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.jd8SrGrr2FraLY1W",
+      "cards": []
+    },
+    {
+      "_id": "sWR9YvnwKPuLVLvk",
+      "name": "legionnaire",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/legionnaire.jpeg",
+          "name": "legionnaire",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.sWR9YvnwKPuLVLvk",
+      "cards": []
+    },
+    {
+      "_id": "Wi4JiPJ4Vt7qnofp",
+      "name": "leiliana-1",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/leiliana-1.jpg",
+          "name": "leiliana-1",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.Wi4JiPJ4Vt7qnofp",
+      "cards": []
+    },
+    {
+      "_id": "UAT6Esh60PWvHOdj",
+      "name": "leiliana-2",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/leiliana-2.jpg",
+          "name": "leiliana-2",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.UAT6Esh60PWvHOdj",
+      "cards": []
+    },
+    {
+      "_id": "Vj50rga2py4EvXkW",
+      "name": "lurker",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/lurker.jpeg",
+          "name": "lurker",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.Vj50rga2py4EvXkW",
+      "cards": []
+    },
+    {
+      "_id": "Wof0DzwZ7zRDFXpF",
+      "name": "mabari",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/mabari.jpeg",
+          "name": "mabari",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.Wof0DzwZ7zRDFXpF",
+      "cards": []
+    },
+    {
+      "_id": "8WVsiTC8PKh4MMTK",
+      "name": "mage",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/mage.jpeg",
+          "name": "mage",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.8WVsiTC8PKh4MMTK",
+      "cards": []
+    },
+    {
+      "_id": "9gneMqDLyUxx9Pvx",
+      "name": "mage_enemy",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/mage_enemy.jpeg",
+          "name": "mage_enemy",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.9gneMqDLyUxx9Pvx",
+      "cards": []
+    },
+    {
+      "_id": "Vh7ye19tX9Av4RwE",
+      "name": "necromancer",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/necromancer.jpeg",
+          "name": "necromancer",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.Vh7ye19tX9Av4RwE",
+      "cards": []
+    },
+    {
+      "_id": "qG3TR7N9BTg3rk92",
+      "name": "nug",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/nug.jpeg",
+          "name": "nug",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.qG3TR7N9BTg3rk92",
+      "cards": []
+    },
+    {
+      "_id": "lhWwiTBuNP6V0sB7",
+      "name": "phoenix",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/phoenix.jpeg",
+          "name": "phoenix",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.lhWwiTBuNP6V0sB7",
+      "cards": []
+    },
+    {
+      "_id": "l3Y8m3miwIp09hJS",
+      "name": "poisonspider",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/poisonspider.jpeg",
+          "name": "poisonspider",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.l3Y8m3miwIp09hJS",
+      "cards": []
+    },
+    {
+      "_id": "Po24v4CnVNhHATwa",
+      "name": "pridedemon",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/pridedemon.jpg",
+          "name": "pridedemon",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.Po24v4CnVNhHATwa",
+      "cards": []
+    },
+    {
+      "_id": "vSZ01CYnfEB2nQUf",
+      "name": "prowler",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/prowler.jpeg",
+          "name": "prowler",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.vSZ01CYnfEB2nQUf",
+      "cards": []
+    },
+    {
+      "_id": "tKKxHdqkpyqGneyF",
+      "name": "quillback",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/quillback.jpeg",
+          "name": "quillback",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.tKKxHdqkpyqGneyF",
+      "cards": []
+    },
+    {
+      "_id": "HKl6VZHgGi86XGsB",
+      "name": "ragedemon",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/ragedemon.jpeg",
+          "name": "ragedemon",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.HKl6VZHgGi86XGsB",
+      "cards": []
+    },
+    {
+      "_id": "fYMJmTNplgUr1S2Y",
+      "name": "ram",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/ram.jpeg",
+          "name": "ram",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.fYMJmTNplgUr1S2Y",
+      "cards": []
+    },
+    {
+      "_id": "PI1ucKuj5FcEw7Ds",
+      "name": "reaver",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/reaver.jpeg",
+          "name": "reaver",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.PI1ucKuj5FcEw7Ds",
+      "cards": []
+    },
+    {
+      "_id": "mbncWu9oiUmY4i1a",
+      "name": "redtemplararcher",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/redtemplararcher.jpeg",
+          "name": "redtemplararcher",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.mbncWu9oiUmY4i1a",
+      "cards": []
+    },
+    {
+      "_id": "ORdhtbyALWijhdFv",
+      "name": "redtemplarfootsoldier",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/redtemplarfootsoldier.jpeg",
+          "name": "redtemplarfootsoldier",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.ORdhtbyALWijhdFv",
+      "cards": []
+    },
+    {
+      "_id": "nJc06BTWn5dnm4Ff",
+      "name": "redtemplarguardsman",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/redtemplarguardsman.jpeg",
+          "name": "redtemplarguardsman",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.nJc06BTWn5dnm4Ff",
+      "cards": []
+    },
+    {
+      "_id": "5ATBmBE9sGl4kbI6",
+      "name": "redtemplarknight",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/redtemplarknight.jpeg",
+          "name": "redtemplarknight",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.5ATBmBE9sGl4kbI6",
+      "cards": []
+    },
+    {
+      "_id": "tH36usKmXJz9cz08",
+      "name": "revenant",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/revenant.jpeg",
+          "name": "revenant",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.tH36usKmXJz9cz08",
+      "cards": []
+    },
+    {
+      "_id": "PZAMEBHmbIXvKjJL",
+      "name": "rogue-1",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/rogue-1.jpg",
+          "name": "rogue-1",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.PZAMEBHmbIXvKjJL",
+      "cards": []
+    },
+    {
+      "_id": "QdLwZ2a3YH1Wjhfi",
+      "name": "rogue-2",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/rogue-2.jpg",
+          "name": "rogue-2",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.QdLwZ2a3YH1Wjhfi",
+      "cards": []
+    },
+    {
+      "_id": "EXymOyV0Ts8EGFA8",
+      "name": "sera",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/sera.jpeg",
+          "name": "sera",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.EXymOyV0Ts8EGFA8",
+      "cards": []
+    },
+    {
+      "_id": "cp7EltQUoq1tMvc7",
+      "name": "shade",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/shade.jpeg",
+          "name": "shade",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.cp7EltQUoq1tMvc7",
+      "cards": []
+    },
+    {
+      "_id": "40YUHKCGl7GQIIgD",
+      "name": "shadow",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/shadow.jpeg",
+          "name": "shadow",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.40YUHKCGl7GQIIgD",
+      "cards": []
+    },
+    {
+      "_id": "f2nfbyUjYw7tDaY0",
+      "name": "snoufleur",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/snoufleur.jpeg",
+          "name": "snoufleur",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.f2nfbyUjYw7tDaY0",
+      "cards": []
+    },
+    {
+      "_id": "hpOPxGQNNTQOcyD8",
+      "name": "solas",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/solas.jpeg",
+          "name": "solas",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.hpOPxGQNNTQOcyD8",
+      "cards": []
+    },
+    {
+      "_id": "mD4O5rN9xXbmGIk4",
+      "name": "spellbinder",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/spellbinder.jpeg",
+          "name": "spellbinder",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.mD4O5rN9xXbmGIk4",
+      "cards": []
+    },
+    {
+      "_id": "QqT5a3odGvSW038j",
+      "name": "templar",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/templar.jpeg",
+          "name": "templar",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.QqT5a3odGvSW038j",
+      "cards": []
+    },
+    {
+      "_id": "6ElMGkk0TG2FmOfZ",
+      "name": "terror",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/terror.jpeg",
+          "name": "terror",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.6ElMGkk0TG2FmOfZ",
+      "cards": []
+    },
+    {
+      "_id": "IQCXxpPNPcxYNHHp",
+      "name": "tusket",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/tusket.jpeg",
+          "name": "tusket",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.IQCXxpPNPcxYNHHp",
+      "cards": []
+    },
+    {
+      "_id": "k2vyN0Vr1XTA5Alz",
+      "name": "varghest",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/varghest.jpeg",
+          "name": "varghest",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.k2vyN0Vr1XTA5Alz",
+      "cards": []
+    },
+    {
+      "_id": "LwzZQ7A3rsmGud4v",
+      "name": "varric",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/varric.jpeg",
+          "name": "varric",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.LwzZQ7A3rsmGud4v",
+      "cards": []
+    },
+    {
+      "_id": "mVmPrtZfKbmvDn1d",
+      "name": "vivienne",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/vivienne.jpeg",
+          "name": "vivienne",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.mVmPrtZfKbmvDn1d",
+      "cards": []
+    },
+    {
+      "_id": "aif19sj9Mr8RjIxm",
+      "name": "warrior-1",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/warrior-1.jpg",
+          "name": "warrior-1",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.aif19sj9Mr8RjIxm",
+      "cards": []
+    },
+    {
+      "_id": "DPBv0rPQzqB884M7",
+      "name": "warrior-2",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/warrior-2.jpg",
+          "name": "warrior-2",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.DPBv0rPQzqB884M7",
+      "cards": []
+    },
+    {
+      "_id": "526YiwXgTFZZP2rG",
+      "name": "wraith",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/wraith.jpeg",
+          "name": "wraith",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.526YiwXgTFZZP2rG",
+      "cards": []
+    },
+    {
+      "_id": "Ak2DYazm2hF1U1OO",
+      "name": "wyvern",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/dragon-age-back.jpg",
+        "name": "Dragon-Age Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/wyvern.jpeg",
+          "name": "wyvern",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "4rmCrVRasx289paS",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!4rmCrVRasx289paS.Ak2DYazm2hF1U1OO",
+      "cards": []
+    }
+  ],
+  "rotation": 0,
+  "displayCount": false,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "R33DRoJHlwxUrsuZ": 3
+  },
+  "flags": {},
+  "_key": "!cards!4rmCrVRasx289paS"
+}

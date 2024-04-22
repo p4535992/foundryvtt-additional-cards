@@ -1,8 +1,8 @@
 {
   "id": "additional-cards",
-  "title": "Additional FoundryVTT Cards",
+  "title": "Additional Cards",
   "description": "Additional card decks for FoundryVTT.",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "authors": [
     {
       "name": "Jay Colson",
@@ -60,7 +60,7 @@
   "packs": [
     {
       "name": "additional-cards",
-      "label": "Addtional Cards",
+      "label": "Additional Cards",
       "path": "packs/additional-cards",
       "type": "Cards",
       "ownership": {
@@ -81,10 +81,9 @@
     "verified": 11,
     "maximum": 11
   },
-  "manifestPlusVersion": "1.2.1",
   "url": "https://github.com/p4535992/foundryvtt-additional-cards",
-  "manifest": "https://github.com/p4535992/foundryvtt-additional-cards/releases/download/1.5.1/module.json",
-  "download": "https://github.com/p4535992/foundryvtt-additional-cards/releases/download/1.5.1/module.zip",
+  "manifest": "https://github.com/p4535992/foundryvtt-additional-cards/releases/download/1.5.2/module.json",
+  "download": "https://github.com/p4535992/foundryvtt-additional-cards/releases/download/1.5.2/module.zip",
   "readme": "https://github.com/p4535992/foundryvtt-additional-cards/blob/master/README.md",
   "changelog": "https://github.com/p4535992/foundryvtt-additional-cards/blob/master/CHANGELOG.md",
   "bugs": "https://github.com/p4535992/foundryvtt-additional-cards/issues",

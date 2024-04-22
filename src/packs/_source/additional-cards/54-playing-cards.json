@@ -1,0 +1,1695 @@
+{
+  "_id": "LhqGZlhDmRVKUKsG",
+  "name": "54-Playing-Cards",
+  "type": "deck",
+  "description": "54-Playing-Cards deck",
+  "img": "modules/additional-cards/assets/images/gray_back.png",
+  "data": {},
+  "cards": [
+    {
+      "name": "2_of_clubs",
+      "faces": [
+        {
+          "name": "2_of_clubs",
+          "img": "modules/additional-cards/assets/images/2_of_clubs.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 2,
+      "suit": "Clubs",
+      "_id": "EOdIf80kZft62r4E",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 0,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.EOdIf80kZft62r4E",
+      "cards": []
+    },
+    {
+      "name": "3_of_clubs",
+      "faces": [
+        {
+          "name": "3_of_clubs",
+          "img": "modules/additional-cards/assets/images/3_of_clubs.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 3,
+      "suit": "Clubs",
+      "_id": "ixo5jiBarWg5HKSX",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 1,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.ixo5jiBarWg5HKSX",
+      "cards": []
+    },
+    {
+      "name": "4_of_clubs",
+      "faces": [
+        {
+          "name": "4_of_clubs",
+          "img": "modules/additional-cards/assets/images/4_of_clubs.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 4,
+      "suit": "Clubs",
+      "_id": "rOer6RaoAyVfa0BK",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 2,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.rOer6RaoAyVfa0BK",
+      "cards": []
+    },
+    {
+      "name": "5_of_clubs",
+      "faces": [
+        {
+          "name": "5_of_clubs",
+          "img": "modules/additional-cards/assets/images/5_of_clubs.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 5,
+      "suit": "Clubs",
+      "_id": "J5BR1v19y2LI8uTr",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 3,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.J5BR1v19y2LI8uTr",
+      "cards": []
+    },
+    {
+      "name": "6_of_clubs",
+      "faces": [
+        {
+          "name": "6_of_clubs",
+          "img": "modules/additional-cards/assets/images/6_of_clubs.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 6,
+      "suit": "Clubs",
+      "_id": "d52PJV3hY9GBq1Xd",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 4,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.d52PJV3hY9GBq1Xd",
+      "cards": []
+    },
+    {
+      "name": "7_of_clubs",
+      "faces": [
+        {
+          "name": "7_of_clubs",
+          "img": "modules/additional-cards/assets/images/7_of_clubs.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 7,
+      "suit": "Clubs",
+      "_id": "BaLp5ojTIOwynu87",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 5,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.BaLp5ojTIOwynu87",
+      "cards": []
+    },
+    {
+      "name": "8_of_clubs",
+      "faces": [
+        {
+          "name": "8_of_clubs",
+          "img": "modules/additional-cards/assets/images/8_of_clubs.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 8,
+      "suit": "Clubs",
+      "_id": "SII6WKYG1LmlbB3t",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 6,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.SII6WKYG1LmlbB3t",
+      "cards": []
+    },
+    {
+      "name": "9_of_clubs",
+      "faces": [
+        {
+          "name": "9_of_clubs",
+          "img": "modules/additional-cards/assets/images/9_of_clubs.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 9,
+      "suit": "Clubs",
+      "_id": "kT8cvsSTimPi40c6",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 7,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.kT8cvsSTimPi40c6",
+      "cards": []
+    },
+    {
+      "name": "10_of_clubs",
+      "faces": [
+        {
+          "name": "10_of_clubs",
+          "img": "modules/additional-cards/assets/images/10_of_clubs.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 10,
+      "suit": "Clubs",
+      "_id": "5KQPOjx03N2MEjwP",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 8,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.5KQPOjx03N2MEjwP",
+      "cards": []
+    },
+    {
+      "name": "ace_of_clubs",
+      "faces": [
+        {
+          "name": "ace_of_clubs",
+          "img": "modules/additional-cards/assets/images/ace_of_clubs.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 1,
+      "suit": "Clubs",
+      "_id": "R1CfyrChXpHRiajL",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 9,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.R1CfyrChXpHRiajL",
+      "cards": []
+    },
+    {
+      "name": "jack_of_clubs",
+      "faces": [
+        {
+          "name": "jack_of_clubs",
+          "img": "modules/additional-cards/assets/images/jack_of_clubs.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 11,
+      "suit": "Clubs",
+      "_id": "MM5kEYhq1khU8a3A",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 10,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.MM5kEYhq1khU8a3A",
+      "cards": []
+    },
+    {
+      "name": "king_of_clubs",
+      "faces": [
+        {
+          "name": "king_of_clubs",
+          "img": "modules/additional-cards/assets/images/king_of_clubs.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 13,
+      "suit": "Clubs",
+      "_id": "g94UlD61IgxNKFrw",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 11,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.g94UlD61IgxNKFrw",
+      "cards": []
+    },
+    {
+      "name": "queen_of_clubs",
+      "faces": [
+        {
+          "name": "queen_of_clubs",
+          "img": "modules/additional-cards/assets/images/queen_of_clubs.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 12,
+      "suit": "Clubs",
+      "_id": "w1vJdrb9Typ4SJeO",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 12,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.w1vJdrb9Typ4SJeO",
+      "cards": []
+    },
+    {
+      "name": "2_of_diamonds",
+      "faces": [
+        {
+          "name": "2_of_diamonds",
+          "img": "modules/additional-cards/assets/images/2_of_diamonds.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 2,
+      "suit": "Diamonds",
+      "_id": "MccY8SIjFVb4ztcP",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 13,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.MccY8SIjFVb4ztcP",
+      "cards": []
+    },
+    {
+      "name": "3_of_diamonds",
+      "faces": [
+        {
+          "name": "3_of_diamonds",
+          "img": "modules/additional-cards/assets/images/3_of_diamonds.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 3,
+      "suit": "Diamonds",
+      "_id": "YIUniYk3NROmxCQG",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 14,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.YIUniYk3NROmxCQG",
+      "cards": []
+    },
+    {
+      "name": "4_of_diamonds",
+      "faces": [
+        {
+          "name": "4_of_diamonds",
+          "img": "modules/additional-cards/assets/images/4_of_diamonds.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 4,
+      "suit": "Diamonds",
+      "_id": "7edC2lSXum08DhE9",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 15,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.7edC2lSXum08DhE9",
+      "cards": []
+    },
+    {
+      "name": "5_of_diamonds",
+      "faces": [
+        {
+          "name": "5_of_diamonds",
+          "img": "modules/additional-cards/assets/images/5_of_diamonds.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 5,
+      "suit": "Diamonds",
+      "_id": "pARUaDOCgcRheoIM",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 16,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.pARUaDOCgcRheoIM",
+      "cards": []
+    },
+    {
+      "name": "6_of_diamonds",
+      "faces": [
+        {
+          "name": "6_of_diamonds",
+          "img": "modules/additional-cards/assets/images/6_of_diamonds.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 6,
+      "suit": "Diamonds",
+      "_id": "D2lQ93KYvIS9EqFQ",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 17,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.D2lQ93KYvIS9EqFQ",
+      "cards": []
+    },
+    {
+      "name": "7_of_diamonds",
+      "faces": [
+        {
+          "name": "7_of_diamonds",
+          "img": "modules/additional-cards/assets/images/7_of_diamonds.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 7,
+      "suit": "Diamonds",
+      "_id": "wfX16AVZNheKoP3O",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 18,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.wfX16AVZNheKoP3O",
+      "cards": []
+    },
+    {
+      "name": "8_of_diamonds",
+      "faces": [
+        {
+          "name": "8_of_diamonds",
+          "img": "modules/additional-cards/assets/images/8_of_diamonds.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 8,
+      "suit": "Diamonds",
+      "_id": "krjIMU0nU4tSia2s",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 19,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.krjIMU0nU4tSia2s",
+      "cards": []
+    },
+    {
+      "name": "9_of_diamonds",
+      "faces": [
+        {
+          "name": "9_of_diamonds",
+          "img": "modules/additional-cards/assets/images/9_of_diamonds.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 9,
+      "suit": "Diamonds",
+      "_id": "NvHgAJDk0gaP7KSM",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 20,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.NvHgAJDk0gaP7KSM",
+      "cards": []
+    },
+    {
+      "name": "10_of_diamonds",
+      "faces": [
+        {
+          "name": "10_of_diamonds",
+          "img": "modules/additional-cards/assets/images/10_of_diamonds.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 10,
+      "suit": "Diamonds",
+      "_id": "u9IPzQfPUJ1b1cp6",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 21,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.u9IPzQfPUJ1b1cp6",
+      "cards": []
+    },
+    {
+      "name": "ace_of_diamonds",
+      "faces": [
+        {
+          "name": "ace_of_diamonds",
+          "img": "modules/additional-cards/assets/images/ace_of_diamonds.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 1,
+      "suit": "Diamonds",
+      "_id": "w4dJSGI4kl27V1tr",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 22,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.w4dJSGI4kl27V1tr",
+      "cards": []
+    },
+    {
+      "name": "jack_of_diamonds",
+      "faces": [
+        {
+          "name": "jack_of_diamonds",
+          "img": "modules/additional-cards/assets/images/jack_of_diamonds.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 11,
+      "suit": "Diamonds",
+      "_id": "PfXNnCBQGXO0vNe4",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 23,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.PfXNnCBQGXO0vNe4",
+      "cards": []
+    },
+    {
+      "name": "king_of_diamonds",
+      "faces": [
+        {
+          "name": "king_of_diamonds",
+          "img": "modules/additional-cards/assets/images/king_of_diamonds.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 13,
+      "suit": "Diamonds",
+      "_id": "zhGRR7TpXmamTwIk",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 24,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.zhGRR7TpXmamTwIk",
+      "cards": []
+    },
+    {
+      "name": "queen_of_diamonds",
+      "faces": [
+        {
+          "name": "queen_of_diamonds",
+          "img": "modules/additional-cards/assets/images/queen_of_diamonds.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 12,
+      "suit": "Diamonds",
+      "_id": "5vCjIsR2QXb8fngc",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 25,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.5vCjIsR2QXb8fngc",
+      "cards": []
+    },
+    {
+      "name": "2_of_hearts",
+      "faces": [
+        {
+          "name": "2_of_hearts",
+          "img": "modules/additional-cards/assets/images/2_of_hearts.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 2,
+      "suit": "Hearts",
+      "_id": "nfmlFPZLUcPHrIKk",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 26,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.nfmlFPZLUcPHrIKk",
+      "cards": []
+    },
+    {
+      "name": "3_of_hearts",
+      "faces": [
+        {
+          "name": "3_of_hearts",
+          "img": "modules/additional-cards/assets/images/3_of_hearts.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 3,
+      "suit": "Hearts",
+      "_id": "Uqx9sqy7HA5M64mo",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 27,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.Uqx9sqy7HA5M64mo",
+      "cards": []
+    },
+    {
+      "name": "4_of_hearts",
+      "faces": [
+        {
+          "name": "4_of_hearts",
+          "img": "modules/additional-cards/assets/images/4_of_hearts.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 4,
+      "suit": "Hearts",
+      "_id": "s8XMlddOXZfXImPt",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 28,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.s8XMlddOXZfXImPt",
+      "cards": []
+    },
+    {
+      "name": "5_of_hearts",
+      "faces": [
+        {
+          "name": "5_of_hearts",
+          "img": "modules/additional-cards/assets/images/5_of_hearts.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 5,
+      "suit": "Hearts",
+      "_id": "1HjOgmCAYidZZYKS",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 29,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.1HjOgmCAYidZZYKS",
+      "cards": []
+    },
+    {
+      "name": "6_of_hearts",
+      "faces": [
+        {
+          "name": "6_of_hearts",
+          "img": "modules/additional-cards/assets/images/6_of_hearts.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 6,
+      "suit": "Hearts",
+      "_id": "uYYtBDmaxch2ZMoj",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 30,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.uYYtBDmaxch2ZMoj",
+      "cards": []
+    },
+    {
+      "name": "7_of_hearts",
+      "faces": [
+        {
+          "name": "7_of_hearts",
+          "img": "modules/additional-cards/assets/images/7_of_hearts.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 7,
+      "suit": "Hearts",
+      "_id": "49fxMmcd1Sq5GVeT",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 31,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.49fxMmcd1Sq5GVeT",
+      "cards": []
+    },
+    {
+      "name": "8_of_hearts",
+      "faces": [
+        {
+          "name": "8_of_hearts",
+          "img": "modules/additional-cards/assets/images/8_of_hearts.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 8,
+      "suit": "Hearts",
+      "_id": "pzbmFfehfXAvmnrB",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 32,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.pzbmFfehfXAvmnrB",
+      "cards": []
+    },
+    {
+      "name": "9_of_hearts",
+      "faces": [
+        {
+          "name": "9_of_hearts",
+          "img": "modules/additional-cards/assets/images/9_of_hearts.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 9,
+      "suit": "Hearts",
+      "_id": "f2Cwiybm5fy3rr0i",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 33,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.f2Cwiybm5fy3rr0i",
+      "cards": []
+    },
+    {
+      "name": "10_of_hearts",
+      "faces": [
+        {
+          "name": "10_of_hearts",
+          "img": "modules/additional-cards/assets/images/10_of_hearts.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 10,
+      "suit": "Hearts",
+      "_id": "F2s2e7rpkPHIMj3z",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 34,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.F2s2e7rpkPHIMj3z",
+      "cards": []
+    },
+    {
+      "name": "ace_of_hearts",
+      "faces": [
+        {
+          "name": "ace_of_hearts",
+          "img": "modules/additional-cards/assets/images/ace_of_hearts.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 1,
+      "suit": "Hearts",
+      "_id": "zSjAqViP1EetNEOb",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 35,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.zSjAqViP1EetNEOb",
+      "cards": []
+    },
+    {
+      "name": "jack_of_hearts",
+      "faces": [
+        {
+          "name": "jack_of_hearts",
+          "img": "modules/additional-cards/assets/images/jack_of_hearts.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 11,
+      "suit": "Hearts",
+      "_id": "ZG1LT7ZXMnrz91V2",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 36,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.ZG1LT7ZXMnrz91V2",
+      "cards": []
+    },
+    {
+      "name": "king_of_hearts",
+      "faces": [
+        {
+          "name": "king_of_hearts",
+          "img": "modules/additional-cards/assets/images/king_of_hearts.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 13,
+      "suit": "Hearts",
+      "_id": "QKQQD68lvPhkGlWS",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 37,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.QKQQD68lvPhkGlWS",
+      "cards": []
+    },
+    {
+      "name": "queen_of_hearts",
+      "faces": [
+        {
+          "name": "queen_of_hearts",
+          "img": "modules/additional-cards/assets/images/queen_of_hearts.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 12,
+      "suit": "Hearts",
+      "_id": "vwxvzP3JbHKlAA7W",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 38,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.vwxvzP3JbHKlAA7W",
+      "cards": []
+    },
+    {
+      "name": "2_of_spades",
+      "faces": [
+        {
+          "name": "2_of_spades",
+          "img": "modules/additional-cards/assets/images/2_of_spades.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 2,
+      "suit": "Spades",
+      "_id": "JAe5ycjmmNcNOj2A",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 39,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.JAe5ycjmmNcNOj2A",
+      "cards": []
+    },
+    {
+      "name": "3_of_spades",
+      "faces": [
+        {
+          "name": "3_of_spades",
+          "img": "modules/additional-cards/assets/images/3_of_spades.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 3,
+      "suit": "Spades",
+      "_id": "9plWixfp15m9AukC",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 40,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.9plWixfp15m9AukC",
+      "cards": []
+    },
+    {
+      "name": "4_of_spades",
+      "faces": [
+        {
+          "name": "4_of_spades",
+          "img": "modules/additional-cards/assets/images/4_of_spades.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 4,
+      "suit": "Spades",
+      "_id": "WeI1NhLfN03FgnhL",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 41,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.WeI1NhLfN03FgnhL",
+      "cards": []
+    },
+    {
+      "name": "5_of_spades",
+      "faces": [
+        {
+          "name": "5_of_spades",
+          "img": "modules/additional-cards/assets/images/5_of_spades.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 5,
+      "suit": "Spades",
+      "_id": "j9EIPzlg6fDLnQ7j",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 42,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.j9EIPzlg6fDLnQ7j",
+      "cards": []
+    },
+    {
+      "name": "6_of_spades",
+      "faces": [
+        {
+          "name": "6_of_spades",
+          "img": "modules/additional-cards/assets/images/6_of_spades.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 6,
+      "suit": "Spades",
+      "_id": "l8lAAsNcBZxjRKBp",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 43,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.l8lAAsNcBZxjRKBp",
+      "cards": []
+    },
+    {
+      "name": "7_of_spades",
+      "faces": [
+        {
+          "name": "7_of_spades",
+          "img": "modules/additional-cards/assets/images/7_of_spades.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 7,
+      "suit": "Spades",
+      "_id": "VvMwV1GjhZwY02Eb",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 44,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.VvMwV1GjhZwY02Eb",
+      "cards": []
+    },
+    {
+      "name": "8_of_spades",
+      "faces": [
+        {
+          "name": "8_of_spades",
+          "img": "modules/additional-cards/assets/images/8_of_spades.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 8,
+      "suit": "Spades",
+      "_id": "9MrM2rVBq754qXRU",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 45,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.9MrM2rVBq754qXRU",
+      "cards": []
+    },
+    {
+      "name": "9_of_spades",
+      "faces": [
+        {
+          "name": "9_of_spades",
+          "img": "modules/additional-cards/assets/images/9_of_spades.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 9,
+      "suit": "Spades",
+      "_id": "D303AzFPFOQEBg9X",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 46,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.D303AzFPFOQEBg9X",
+      "cards": []
+    },
+    {
+      "name": "10_of_spades",
+      "faces": [
+        {
+          "name": "10_of_spades",
+          "img": "modules/additional-cards/assets/images/10_of_spades.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 10,
+      "suit": "Spades",
+      "_id": "tlO76El9qOo07rW3",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 47,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.tlO76El9qOo07rW3",
+      "cards": []
+    },
+    {
+      "name": "ace_of_spades",
+      "faces": [
+        {
+          "name": "ace_of_spades",
+          "img": "modules/additional-cards/assets/images/ace_of_spades.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 1,
+      "suit": "Spades",
+      "_id": "YxDQLX67H57T7sla",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 48,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.YxDQLX67H57T7sla",
+      "cards": []
+    },
+    {
+      "name": "jack_of_spades",
+      "faces": [
+        {
+          "name": "jack_of_spades",
+          "img": "modules/additional-cards/assets/images/jack_of_spades.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 11,
+      "suit": "Spades",
+      "_id": "FceyUMjDomFFirkL",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 49,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.FceyUMjDomFFirkL",
+      "cards": []
+    },
+    {
+      "name": "king_of_spades",
+      "faces": [
+        {
+          "name": "king_of_spades",
+          "img": "modules/additional-cards/assets/images/king_of_spades.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 13,
+      "suit": "Spades",
+      "_id": "9tYyHRMOFf4wgDMl",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 50,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.9tYyHRMOFf4wgDMl",
+      "cards": []
+    },
+    {
+      "name": "queen_of_spades",
+      "faces": [
+        {
+          "name": "queen_of_spades",
+          "img": "modules/additional-cards/assets/images/queen_of_spades.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 12,
+      "suit": "Spades",
+      "_id": "g29E3MdkjT399Kp5",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 51,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.g29E3MdkjT399Kp5",
+      "cards": []
+    },
+    {
+      "name": "black_joker",
+      "faces": [
+        {
+          "name": "black_joker",
+          "img": "modules/additional-cards/assets/images/black_joker.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 0,
+      "suit": "Joker",
+      "_id": "WaVIcuGpDxuSIdMy",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 52,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.WaVIcuGpDxuSIdMy",
+      "cards": []
+    },
+    {
+      "name": "red_joker",
+      "faces": [
+        {
+          "name": "red_joker",
+          "img": "modules/additional-cards/assets/images/red_joker.png",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 0,
+      "suit": "Joker",
+      "_id": "OSN7WfJ4F7sTcw4w",
+      "description": "",
+      "data": {},
+      "face": 0,
+      "drawn": false,
+      "sort": 53,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "LhqGZlhDmRVKUKsG",
+      "_key": "!cards.cards!LhqGZlhDmRVKUKsG.OSN7WfJ4F7sTcw4w",
+      "cards": []
+    }
+  ],
+  "width": 2,
+  "height": 3,
+  "rotation": 0,
+  "displayCount": true,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "_key": "!cards!LhqGZlhDmRVKUKsG",
+  "flags": {}
+}

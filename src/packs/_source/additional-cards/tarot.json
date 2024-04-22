@@ -1,0 +1,2208 @@
+{
+  "_id": "JOajllhLNre6xmPK",
+  "name": "Tarot",
+  "type": "deck",
+  "description": "Tarot Card Deck",
+  "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+  "data": {},
+  "cards": [
+    {
+      "_id": "1rgj5cdWFMEj4u2j",
+      "name": "Tarot_Ace_Cups_01",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Ace_Cups_01.jpg",
+          "name": "Tarot_Ace_Cups_01",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.1rgj5cdWFMEj4u2j",
+      "cards": []
+    },
+    {
+      "_id": "kIJIp7Mbr6xRYeRX",
+      "name": "Tarot_Ace_Pents_01",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Ace_Pents_01.jpg",
+          "name": "Tarot_Ace_Pents_01",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.kIJIp7Mbr6xRYeRX",
+      "cards": []
+    },
+    {
+      "_id": "dgbO2qhYGii4fFDI",
+      "name": "Tarot_Ace_Swords_01",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Ace_Swords_01.jpg",
+          "name": "Tarot_Ace_Swords_01",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.dgbO2qhYGii4fFDI",
+      "cards": []
+    },
+    {
+      "_id": "If2mUny73MKcegAK",
+      "name": "Tarot_Ace_Wands_01",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Ace_Wands_01.jpg",
+          "name": "Tarot_Ace_Wands_01",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.If2mUny73MKcegAK",
+      "cards": []
+    },
+    {
+      "_id": "iTConwhR6TH9NzpI",
+      "name": "Tarot_Cups_02",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Cups_02.jpg",
+          "name": "Tarot_Cups_02",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.iTConwhR6TH9NzpI",
+      "cards": []
+    },
+    {
+      "_id": "9o9qcsUpMEuiX0qe",
+      "name": "Tarot_Cups_03",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Cups_03.jpg",
+          "name": "Tarot_Cups_03",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.9o9qcsUpMEuiX0qe",
+      "cards": []
+    },
+    {
+      "_id": "TQhIn1xIxgQ9CKMP",
+      "name": "Tarot_Cups_04",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Cups_04.jpg",
+          "name": "Tarot_Cups_04",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.TQhIn1xIxgQ9CKMP",
+      "cards": []
+    },
+    {
+      "_id": "7HJKoKbPkwCtit8c",
+      "name": "Tarot_Cups_05",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Cups_05.jpg",
+          "name": "Tarot_Cups_05",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.7HJKoKbPkwCtit8c",
+      "cards": []
+    },
+    {
+      "_id": "924GZwa4oH3SvI2Z",
+      "name": "Tarot_Cups_06",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Cups_06.jpg",
+          "name": "Tarot_Cups_06",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.924GZwa4oH3SvI2Z",
+      "cards": []
+    },
+    {
+      "_id": "qIYhm5oCDoWsS2Cs",
+      "name": "Tarot_Cups_07",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Cups_07.jpg",
+          "name": "Tarot_Cups_07",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.qIYhm5oCDoWsS2Cs",
+      "cards": []
+    },
+    {
+      "_id": "hJPBZvbiYmQMJXQ0",
+      "name": "Tarot_Cups_08",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Cups_08.jpg",
+          "name": "Tarot_Cups_08",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.hJPBZvbiYmQMJXQ0",
+      "cards": []
+    },
+    {
+      "_id": "N4wXL7omUwJCyu48",
+      "name": "Tarot_Cups_09",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Cups_09.jpg",
+          "name": "Tarot_Cups_09",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.N4wXL7omUwJCyu48",
+      "cards": []
+    },
+    {
+      "_id": "K2reDmnIlb5vW2bO",
+      "name": "Tarot_Cups_10",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Cups_10.jpg",
+          "name": "Tarot_Cups_10",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.K2reDmnIlb5vW2bO",
+      "cards": []
+    },
+    {
+      "_id": "aXJylnZAH1A0F0nj",
+      "name": "Tarot_King_Cups_14",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_King_Cups_14.jpg",
+          "name": "Tarot_King_Cups_14",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.aXJylnZAH1A0F0nj",
+      "cards": []
+    },
+    {
+      "_id": "djnH1SC7BXM6puyb",
+      "name": "Tarot_King_Pents_14",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_King_Pents_14.jpg",
+          "name": "Tarot_King_Pents_14",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.djnH1SC7BXM6puyb",
+      "cards": []
+    },
+    {
+      "_id": "iuihEH5YtRIQyBZf",
+      "name": "Tarot_King_Swords_14",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_King_Swords_14.jpg",
+          "name": "Tarot_King_Swords_14",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.iuihEH5YtRIQyBZf",
+      "cards": []
+    },
+    {
+      "_id": "0ZbOHyU7tZL5f2EY",
+      "name": "Tarot_King_Wands_14",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_King_Wands_14.jpg",
+          "name": "Tarot_King_Wands_14",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.0ZbOHyU7tZL5f2EY",
+      "cards": []
+    },
+    {
+      "_id": "Ho3jofVkbqVSxzHv",
+      "name": "Tarot_Knight_Cups_12",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Knight_Cups_12.jpg",
+          "name": "Tarot_Knight_Cups_12",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.Ho3jofVkbqVSxzHv",
+      "cards": []
+    },
+    {
+      "_id": "41RafC9W4mlihpa0",
+      "name": "Tarot_Knight_Pents_12",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Knight_Pents_12.jpg",
+          "name": "Tarot_Knight_Pents_12",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.41RafC9W4mlihpa0",
+      "cards": []
+    },
+    {
+      "_id": "R3nOQKR3B9MQ8r8P",
+      "name": "Tarot_Knight_Swords_12",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Knight_Swords_12.jpg",
+          "name": "Tarot_Knight_Swords_12",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.R3nOQKR3B9MQ8r8P",
+      "cards": []
+    },
+    {
+      "_id": "llimqWL0p9ETeEWw",
+      "name": "Tarot_Knight_Wands_12",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Knight_Wands_12.jpg",
+          "name": "Tarot_Knight_Wands_12",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.llimqWL0p9ETeEWw",
+      "cards": []
+    },
+    {
+      "_id": "vUUq3E4Wz775s25J",
+      "name": "Tarot_MajorArcana_00_Fool",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_00_Fool.jpg",
+          "name": "Tarot_MajorArcana_00_Fool",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.vUUq3E4Wz775s25J",
+      "cards": []
+    },
+    {
+      "_id": "Si1XKNTZv1Hhlwnk",
+      "name": "Tarot_MajorArcana_01_Magician",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_01_Magician.jpg",
+          "name": "Tarot_MajorArcana_01_Magician",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.Si1XKNTZv1Hhlwnk",
+      "cards": []
+    },
+    {
+      "_id": "TwM3zgTZMJSMByLa",
+      "name": "Tarot_MajorArcana_02_High_Priestess",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_02_High_Priestess.jpg",
+          "name": "Tarot_MajorArcana_02_High_Priestess",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.TwM3zgTZMJSMByLa",
+      "cards": []
+    },
+    {
+      "_id": "f4rmZqoCgrRs6n4f",
+      "name": "Tarot_MajorArcana_03_Empress",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_03_Empress.jpg",
+          "name": "Tarot_MajorArcana_03_Empress",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.f4rmZqoCgrRs6n4f",
+      "cards": []
+    },
+    {
+      "_id": "kiGmHZkf5fZ6b5Rc",
+      "name": "Tarot_MajorArcana_04_Emperor",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_04_Emperor.jpg",
+          "name": "Tarot_MajorArcana_04_Emperor",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.kiGmHZkf5fZ6b5Rc",
+      "cards": []
+    },
+    {
+      "_id": "xCp6lkqt7oQln7HB",
+      "name": "Tarot_MajorArcana_05_Hierophant",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_05_Hierophant.jpg",
+          "name": "Tarot_MajorArcana_05_Hierophant",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.xCp6lkqt7oQln7HB",
+      "cards": []
+    },
+    {
+      "_id": "DMwxk08rA46wrEaX",
+      "name": "Tarot_MajorArcana_06_TheLovers",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_06_TheLovers.jpg",
+          "name": "Tarot_MajorArcana_06_TheLovers",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.DMwxk08rA46wrEaX",
+      "cards": []
+    },
+    {
+      "_id": "zrHCXLCnGi3AjAek",
+      "name": "Tarot_MajorArcana_07_Chariot",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_07_Chariot.jpg",
+          "name": "Tarot_MajorArcana_07_Chariot",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.zrHCXLCnGi3AjAek",
+      "cards": []
+    },
+    {
+      "_id": "TlevSEreLpUbIV1M",
+      "name": "Tarot_MajorArcana_08_Strength",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_08_Strength.jpg",
+          "name": "Tarot_MajorArcana_08_Strength",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.TlevSEreLpUbIV1M",
+      "cards": []
+    },
+    {
+      "_id": "60CGAxc4ThdLCOti",
+      "name": "Tarot_MajorArcana_09_Hermit",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_09_Hermit.jpg",
+          "name": "Tarot_MajorArcana_09_Hermit",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.60CGAxc4ThdLCOti",
+      "cards": []
+    },
+    {
+      "_id": "edG8E4xIzo3swdeL",
+      "name": "Tarot_MajorArcana_10_Wheel_of_Fortune",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_10_Wheel_of_Fortune.jpg",
+          "name": "Tarot_MajorArcana_10_Wheel_of_Fortune",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.edG8E4xIzo3swdeL",
+      "cards": []
+    },
+    {
+      "_id": "1uxypjJQXFhsVare",
+      "name": "Tarot_MajorArcana_11_Justice",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_11_Justice.jpg",
+          "name": "Tarot_MajorArcana_11_Justice",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.1uxypjJQXFhsVare",
+      "cards": []
+    },
+    {
+      "_id": "FwghHaMy5OpZPWvG",
+      "name": "Tarot_MajorArcana_12_Hanged_Man",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_12_Hanged_Man.jpg",
+          "name": "Tarot_MajorArcana_12_Hanged_Man",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.FwghHaMy5OpZPWvG",
+      "cards": []
+    },
+    {
+      "_id": "8FtMwDqAvYe7ZHuB",
+      "name": "Tarot_MajorArcana_13_Death",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_13_Death.jpg",
+          "name": "Tarot_MajorArcana_13_Death",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.8FtMwDqAvYe7ZHuB",
+      "cards": []
+    },
+    {
+      "_id": "vXVieX8jt97Y7G5r",
+      "name": "Tarot_MajorArcana_14_Temperance",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_14_Temperance.jpg",
+          "name": "Tarot_MajorArcana_14_Temperance",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.vXVieX8jt97Y7G5r",
+      "cards": []
+    },
+    {
+      "_id": "bv4zSlJMZWX7eVaz",
+      "name": "Tarot_MajorArcana_15_Devil",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_15_Devil.jpg",
+          "name": "Tarot_MajorArcana_15_Devil",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.bv4zSlJMZWX7eVaz",
+      "cards": []
+    },
+    {
+      "_id": "XSU1kxcmGLgxIafE",
+      "name": "Tarot_MajorArcana_16_Tower",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_16_Tower.jpg",
+          "name": "Tarot_MajorArcana_16_Tower",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.XSU1kxcmGLgxIafE",
+      "cards": []
+    },
+    {
+      "_id": "VfU1dzyDlIDF3znO",
+      "name": "Tarot_MajorArcana_17_Star",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_17_Star.jpg",
+          "name": "Tarot_MajorArcana_17_Star",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.VfU1dzyDlIDF3znO",
+      "cards": []
+    },
+    {
+      "_id": "25wuWL0HIFSO7uvA",
+      "name": "Tarot_MajorArcana_18_Moon",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_18_Moon.jpg",
+          "name": "Tarot_MajorArcana_18_Moon",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.25wuWL0HIFSO7uvA",
+      "cards": []
+    },
+    {
+      "_id": "ChK5qw9SBlZvdyph",
+      "name": "Tarot_MajorArcana_19_Sun",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_19_Sun.jpg",
+          "name": "Tarot_MajorArcana_19_Sun",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.ChK5qw9SBlZvdyph",
+      "cards": []
+    },
+    {
+      "_id": "jCamFOeQtgYFBj4V",
+      "name": "Tarot_MajorArcana_20_Judgement",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_20_Judgement.jpg",
+          "name": "Tarot_MajorArcana_20_Judgement",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.jCamFOeQtgYFBj4V",
+      "cards": []
+    },
+    {
+      "_id": "gyZVe31cwl6zOgW5",
+      "name": "Tarot_MajorArcana_21_World",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_MajorArcana_21_World.jpg",
+          "name": "Tarot_MajorArcana_21_World",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.gyZVe31cwl6zOgW5",
+      "cards": []
+    },
+    {
+      "_id": "DwwFqa31WII0qgyz",
+      "name": "Tarot_Page_Cups_11",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Page_Cups_11.jpg",
+          "name": "Tarot_Page_Cups_11",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.DwwFqa31WII0qgyz",
+      "cards": []
+    },
+    {
+      "_id": "albXjNJSFvHiUgfh",
+      "name": "Tarot_Page_Pents_11",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Page_Pents_11.jpg",
+          "name": "Tarot_Page_Pents_11",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.albXjNJSFvHiUgfh",
+      "cards": []
+    },
+    {
+      "_id": "4zmpDwQm3qFc9CnJ",
+      "name": "Tarot_Page_Swords_11",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Page_Swords_11.jpg",
+          "name": "Tarot_Page_Swords_11",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.4zmpDwQm3qFc9CnJ",
+      "cards": []
+    },
+    {
+      "_id": "HxWkb68GvcqKvpon",
+      "name": "Tarot_Page_Wands_11",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Page_Wands_11.jpg",
+          "name": "Tarot_Page_Wands_11",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.HxWkb68GvcqKvpon",
+      "cards": []
+    },
+    {
+      "_id": "9g00jdpHukxxnJVV",
+      "name": "Tarot_Pents_02",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Pents_02.jpg",
+          "name": "Tarot_Pents_02",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.9g00jdpHukxxnJVV",
+      "cards": []
+    },
+    {
+      "_id": "MCR2HzZ3LSWT3rth",
+      "name": "Tarot_Pents_03",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Pents_03.jpg",
+          "name": "Tarot_Pents_03",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.MCR2HzZ3LSWT3rth",
+      "cards": []
+    },
+    {
+      "_id": "l5pDmfiuwyMGH9Yl",
+      "name": "Tarot_Pents_04",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Pents_04.jpg",
+          "name": "Tarot_Pents_04",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.l5pDmfiuwyMGH9Yl",
+      "cards": []
+    },
+    {
+      "_id": "ns4RexgTi1PZyjNf",
+      "name": "Tarot_Pents_05",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Pents_05.jpg",
+          "name": "Tarot_Pents_05",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.ns4RexgTi1PZyjNf",
+      "cards": []
+    },
+    {
+      "_id": "E9XnzoO64qeHBAdj",
+      "name": "Tarot_Pents_06",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Pents_06.jpg",
+          "name": "Tarot_Pents_06",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.E9XnzoO64qeHBAdj",
+      "cards": []
+    },
+    {
+      "_id": "FNG26nsa4p0bhHXg",
+      "name": "Tarot_Pents_07",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Pents_07.jpg",
+          "name": "Tarot_Pents_07",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.FNG26nsa4p0bhHXg",
+      "cards": []
+    },
+    {
+      "_id": "OU5JnQGxJghv19Hp",
+      "name": "Tarot_Pents_08",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Pents_08.jpg",
+          "name": "Tarot_Pents_08",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.OU5JnQGxJghv19Hp",
+      "cards": []
+    },
+    {
+      "_id": "5lt2Z06joumIOB2w",
+      "name": "Tarot_Pents_09",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Pents_09.jpg",
+          "name": "Tarot_Pents_09",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.5lt2Z06joumIOB2w",
+      "cards": []
+    },
+    {
+      "_id": "McUwEeazR92W3mkx",
+      "name": "Tarot_Pents_10",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Pents_10.jpg",
+          "name": "Tarot_Pents_10",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.McUwEeazR92W3mkx",
+      "cards": []
+    },
+    {
+      "_id": "1PPqA9P8U3ZZ1ovc",
+      "name": "Tarot_Queen_Cups_13",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Queen_Cups_13.jpg",
+          "name": "Tarot_Queen_Cups_13",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.1PPqA9P8U3ZZ1ovc",
+      "cards": []
+    },
+    {
+      "_id": "ysYWzHPDsW290s9p",
+      "name": "Tarot_Queen_Pents_13",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Queen_Pents_13.jpg",
+          "name": "Tarot_Queen_Pents_13",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.ysYWzHPDsW290s9p",
+      "cards": []
+    },
+    {
+      "_id": "XXmI9R1Fr3qLZYYZ",
+      "name": "Tarot_Queen_Swords_13",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Queen_Swords_13.jpg",
+          "name": "Tarot_Queen_Swords_13",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.XXmI9R1Fr3qLZYYZ",
+      "cards": []
+    },
+    {
+      "_id": "BTxoYRCIr270kfLE",
+      "name": "Tarot_Queen_Wands_13",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Queen_Wands_13.jpg",
+          "name": "Tarot_Queen_Wands_13",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.BTxoYRCIr270kfLE",
+      "cards": []
+    },
+    {
+      "_id": "Xu5CkPJLChQJLm73",
+      "name": "Tarot_Swords_02",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Swords_02.jpg",
+          "name": "Tarot_Swords_02",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.Xu5CkPJLChQJLm73",
+      "cards": []
+    },
+    {
+      "_id": "kEbjaAHW7tsMWf3l",
+      "name": "Tarot_Swords_03",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Swords_03.jpg",
+          "name": "Tarot_Swords_03",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.kEbjaAHW7tsMWf3l",
+      "cards": []
+    },
+    {
+      "_id": "xbt8vToAi20Sgb5Q",
+      "name": "Tarot_Swords_04",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Swords_04.jpg",
+          "name": "Tarot_Swords_04",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.xbt8vToAi20Sgb5Q",
+      "cards": []
+    },
+    {
+      "_id": "VgA6ViNMnUY4F9rV",
+      "name": "Tarot_Swords_05",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Swords_05.jpg",
+          "name": "Tarot_Swords_05",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.VgA6ViNMnUY4F9rV",
+      "cards": []
+    },
+    {
+      "_id": "U7jZgV2TqeBhP42f",
+      "name": "Tarot_Swords_06",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Swords_06.jpg",
+          "name": "Tarot_Swords_06",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.U7jZgV2TqeBhP42f",
+      "cards": []
+    },
+    {
+      "_id": "7L5EtiGXlKcrakiM",
+      "name": "Tarot_Swords_07",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Swords_07.jpg",
+          "name": "Tarot_Swords_07",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.7L5EtiGXlKcrakiM",
+      "cards": []
+    },
+    {
+      "_id": "WA3hYd613IsYxJbV",
+      "name": "Tarot_Swords_08",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Swords_08.jpg",
+          "name": "Tarot_Swords_08",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.WA3hYd613IsYxJbV",
+      "cards": []
+    },
+    {
+      "_id": "qaKjK917UpLrzgPd",
+      "name": "Tarot_Swords_09",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Swords_09.jpg",
+          "name": "Tarot_Swords_09",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.qaKjK917UpLrzgPd",
+      "cards": []
+    },
+    {
+      "_id": "nKYS1IYHnW1RcB1T",
+      "name": "Tarot_Swords_10",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Swords_10.jpg",
+          "name": "Tarot_Swords_10",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.nKYS1IYHnW1RcB1T",
+      "cards": []
+    },
+    {
+      "_id": "PnbF6NpECkf1TxI7",
+      "name": "Tarot_Wands_02",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Wands_02.jpg",
+          "name": "Tarot_Wands_02",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.PnbF6NpECkf1TxI7",
+      "cards": []
+    },
+    {
+      "_id": "3RyQztygv6Id5OLL",
+      "name": "Tarot_Wands_03",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Wands_03.jpg",
+          "name": "Tarot_Wands_03",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.3RyQztygv6Id5OLL",
+      "cards": []
+    },
+    {
+      "_id": "Y9vMa4YsNJUyKo54",
+      "name": "Tarot_Wands_04",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Wands_04.jpg",
+          "name": "Tarot_Wands_04",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.Y9vMa4YsNJUyKo54",
+      "cards": []
+    },
+    {
+      "_id": "mJmmEpb8ZOrtdMZP",
+      "name": "Tarot_Wands_05",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Wands_05.jpg",
+          "name": "Tarot_Wands_05",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.mJmmEpb8ZOrtdMZP",
+      "cards": []
+    },
+    {
+      "_id": "HvWnn1Rrla7Y12XQ",
+      "name": "Tarot_Wands_06",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Wands_06.jpg",
+          "name": "Tarot_Wands_06",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.HvWnn1Rrla7Y12XQ",
+      "cards": []
+    },
+    {
+      "_id": "StoAd3kImLDSmuuk",
+      "name": "Tarot_Wands_07",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Wands_07.jpg",
+          "name": "Tarot_Wands_07",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.StoAd3kImLDSmuuk",
+      "cards": []
+    },
+    {
+      "_id": "8UFyzk8nplZoGLZl",
+      "name": "Tarot_Wands_08",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Wands_08.jpg",
+          "name": "Tarot_Wands_08",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.8UFyzk8nplZoGLZl",
+      "cards": []
+    },
+    {
+      "_id": "cRnOx6iQTx2t8hCw",
+      "name": "Tarot_Wands_09",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Wands_09.jpg",
+          "name": "Tarot_Wands_09",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.cRnOx6iQTx2t8hCw",
+      "cards": []
+    },
+    {
+      "_id": "qTbaWoh2dkJGBQVJ",
+      "name": "Tarot_Wands_10",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "modules/additional-cards/assets/images/Tarot_Back.jpg",
+        "name": "Tarot Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "modules/additional-cards/assets/images/Tarot_Wands_10.jpg",
+          "name": "Tarot_Wands_10",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "JOajllhLNre6xmPK",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "_key": "!cards.cards!JOajllhLNre6xmPK.qTbaWoh2dkJGBQVJ",
+      "cards": []
+    }
+  ],
+  "rotation": 0,
+  "displayCount": false,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "R33DRoJHlwxUrsuZ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_key": "!cards!JOajllhLNre6xmPK"
+}
