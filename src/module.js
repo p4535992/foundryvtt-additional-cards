@@ -15,45 +15,45 @@
 /* Initialize module					*/
 /* ------------------------------------ */
 Hooks.once("init", () => {
-  // Do anything once the module is ready
-  // if (!game.modules.get("lib-wrapper")?.active && game.user?.isGM) {
-  //     let word = "install and activate";
-  //     if (game.modules.get("lib-wrapper"))
-  //         word = "activate";
-  //     throw error(`Requires the 'libWrapper' module. Please ${word} it.`);
-  // }
-  // Register custom module settings
-  //   registerSettings();
-  //   initHooks();
-  //readyHooks();
-  // Assign custom classes and constants here
-  // Register custom module settings
-  //registerSettings();
-  //fetchParams();
-  // Preload Handlebars templates
-  // await preloadTemplates();
-  // Register custom sheets (if any)
+    // Do anything once the module is ready
+    // if (!game.modules.get("lib-wrapper")?.active && game.user?.isGM) {
+    //     let word = "install and activate";
+    //     if (game.modules.get("lib-wrapper"))
+    //         word = "activate";
+    //     throw error(`Requires the 'libWrapper' module. Please ${word} it.`);
+    // }
+    // Register custom module settings
+    //   registerSettings();
+    //   initHooks();
+    //readyHooks();
+    // Assign custom classes and constants here
+    // Register custom module settings
+    //registerSettings();
+    //fetchParams();
+    // Preload Handlebars templates
+    // await preloadTemplates();
+    // Register custom sheets (if any)
 });
 /* ------------------------------------ */
 /* Setup module							*/
 /* ------------------------------------ */
 Hooks.once("setup", function () {
-  // Do anything after initialization but before ready
-  //setupModules();
-  //   setupHooks();
-  //registerSettings();
+    // Do anything after initialization but before ready
+    //setupModules();
+    //   setupHooks();
+    //registerSettings();
 });
 /* ------------------------------------ */
 /* When ready							*/
 /* ------------------------------------ */
 Hooks.once("ready", () => {
-  // if (!game.modules.get("socketLib")?.active && game.user?.isGM) {
-  // 	let word = "install and activate";
-  // 	if (game.modules.get("socketLib")) word = "activate";
-  // 	throw error(`Requires the 'socketLib' module. Please ${word} it.`);
-  // }
-  // Do anything once the module is ready
-  //   readyHooks();
+    // if (!game.modules.get("socketLib")?.active && game.user?.isGM) {
+    // 	let word = "install and activate";
+    // 	if (game.modules.get("socketLib")) word = "activate";
+    // 	throw error(`Requires the 'socketLib' module. Please ${word} it.`);
+    // }
+    // Do anything once the module is ready
+    //   readyHooks();
 });
 
 /* ------------------------------------ */
@@ -61,5 +61,5 @@ Hooks.once("ready", () => {
 /* ------------------------------------ */
 
 Hooks.once("devModeReady", ({ registerPackageDebugFlag }) => {
-  registerPackageDebugFlag(CONSTANTS.MODULE_ID);
+    registerPackageDebugFlag("additional-cards");
 });
