@@ -2,7 +2,7 @@
   "id": "additional-cards",
   "title": "Additional FoundryVTT Cards",
   "description": "Additional card decks for FoundryVTT.",
-  "version": "1.5.1",
+  "version": "12.0.1",
   "authors": [
     {
       "name": "Jay Colson",
@@ -22,20 +22,7 @@
       "email": ""
     }
   ],
-  "type": "module",
   "socket": true,
-  "includes": [
-    "./assets/**",
-    "./lang/**",
-    "./languages/**",
-    "./scripts/**",
-    "./styles/**",
-    "./templates/**",
-    "./module.json",
-    "./README.md",
-    "./icons/**",
-    "./packs/**"
-  ],
   "media": [
     {
       "type": "icon",
@@ -72,23 +59,20 @@
       "flags": {}
     }
   ],
-  "systems": [],
   "scripts": [],
   "esmodules": ["module.js"],
   "styles": [],
   "compatibility": {
     "minimum": 11,
-    "verified": 11,
-    "maximum": 11
+    "verified": 12,
+    "maximum": 12
   },
-  "manifestPlusVersion": "1.2.1",
   "url": "https://github.com/p4535992/foundryvtt-additional-cards",
-  "manifest": "https://github.com/p4535992/foundryvtt-additional-cards/releases/download/1.5.1/module.json",
-  "download": "https://github.com/p4535992/foundryvtt-additional-cards/releases/download/1.5.1/module.zip",
+  "manifest": "https://github.com/p4535992/foundryvtt-additional-cards/releases/download/12.0.1/module.json",
+  "download": "https://github.com/p4535992/foundryvtt-additional-cards/releases/download/12.0.1/module.zip",
   "readme": "https://github.com/p4535992/foundryvtt-additional-cards/blob/master/README.md",
   "changelog": "https://github.com/p4535992/foundryvtt-additional-cards/blob/master/CHANGELOG.md",
   "bugs": "https://github.com/p4535992/foundryvtt-additional-cards/issues",
-  "allowBugReporter": true,
   "relationships": {
     "systems": [],
     "requires": [],
